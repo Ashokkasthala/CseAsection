@@ -7,7 +7,7 @@ public class Sample
 	{
 		// TODO Auto-generated method stub
 		Ashok();
-        Kumar();
+                Kumar();
 	}
 	public static void Ashok() 
 	{
